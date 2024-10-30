@@ -1,0 +1,10 @@
+D:\KiemThuBTL_45_Nhan\PTB2_45_Nhan\bin\Debug\PTB2_45_Nhan.exe.config
+D:\KiemThuBTL_45_Nhan\PTB2_45_Nhan\bin\Debug\PTB2_45_Nhan.exe
+D:\KiemThuBTL_45_Nhan\PTB2_45_Nhan\bin\Debug\PTB2_45_Nhan.pdb
+D:\KiemThuBTL_45_Nhan\PTB2_45_Nhan\obj\Debug\PTB2_45_Nhan.Form1_45_Nhan.resources
+D:\KiemThuBTL_45_Nhan\PTB2_45_Nhan\obj\Debug\PTB2_45_Nhan.Properties.Resources.resources
+D:\KiemThuBTL_45_Nhan\PTB2_45_Nhan\obj\Debug\PTB2_45_Nhan.csproj.GenerateResource.cache
+D:\KiemThuBTL_45_Nhan\PTB2_45_Nhan\obj\Debug\PTB2_45_Nhan.csproj.CoreCompileInputs.cache
+D:\KiemThuBTL_45_Nhan\PTB2_45_Nhan\obj\Debug\PTB2_45_Nhan.exe
+D:\KiemThuBTL_45_Nhan\PTB2_45_Nhan\obj\Debug\PTB2_45_Nhan.pdb
+D:\KiemThuBTL_45_Nhan\PTB2_45_Nhan\obj\Debug\PTB2_45_Nhan.csproj.AssemblyReference.cache
